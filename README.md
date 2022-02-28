@@ -757,4 +757,4 @@ Google Search Appliance の設定をしたあとは、実作業はほとんど�
 ### conpass参加履歴
 * [ディープラーニング 超初心者向けハンズオン！](https://weeyble-data.connpass.com/event/147043/)
 * [Azure IoT Central](https://algyan.connpass.com/event/125001/)
-*他
+* 他
