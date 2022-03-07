@@ -5,6 +5,7 @@
 |key|value|
 |---|---|
 |Name|安藤　草太(Andou Souta)|
+|mail|[ctrlzr@gmail.com](<mailto:ctrlzr@gmail.com>)|
 |github|[andotejimaya](https://github.com/andotejimaya/)|
 |Qiita|[ctrlzr](https://qiita.com/ctrlzr)|
 |connpass|[undy_sundy](https://connpass.com/user/undy_sundy/)|
