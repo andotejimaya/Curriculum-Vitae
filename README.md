@@ -4,6 +4,7 @@
 
 |key|value|
 |---|---|
+|屋号|テクニカル・サンズ|
 |Name|安藤　草太(Andou Souta)|
 |mail|[ctrlzr@gmail.com](<mailto:ctrlzr@gmail.com>)|
 |github|[andotejimaya](https://github.com/andotejimaya/)|
@@ -18,6 +19,7 @@
 - Java
 - PHP
 - node.js
+- python
 - Shell
 - 他
 
@@ -42,6 +44,7 @@
 - AWS
 - GCP
 - Azure
+- GMOクラウド
 - さくらインターネット
 - Oracle Blockchain Platform Cloud Service
 
@@ -63,7 +66,7 @@
 
 ## 個人開発
 
-- [メモッち](https://assistant.google.com/services/a/uid/000000424299bf2d)
+- [メモッち](https://assistant.google.com/services/a/uid/000000424299bf2d) ([2023年6月13日サービス終了](https://developers.google.com/assistant/ca-sunset?hl=ja))
 - [へた読み辞書](https://heta.undo.jp/)
 - [ミチルとカケル](https://ctrlzr.sakura.ne.jp/)
 - [ミチルとカケルLINEスタンプ](https://store.line.me/stickershop/product/13290642/ja)
@@ -73,17 +76,58 @@
 ## 興味があるもの
 
 - NFT
-- IoT
-- ディープラーニング
+- 量子生物学
 
 ## 職務経歴
 
 ### 2021/07 - 現在 : フリーランス
 
-#### 41. 図面描画システム連携
-#### 2022/07 - 現在
 
-インストール型の図面描画アプリケーションとWEBサービスの連携を担当しました。
+#### 43. 図面描画アプリケーション画像認識機能追加
+#### 2022/11 - 現在
+
+インストール型の図面描画アプリケーション（[間取りクラウド](https://madori.jp/#madori-cloud)）に、間取り画像の自動認識機能を開発中。
+
+[完成イメージ](https://youtu.be/EyR8IxRqRWA)
+
+##### 担当業務
+
+- 調査
+- 設計
+
+##### 言語・環境
+
+- C#
+- python
+- php
+- aws
+- PyTorch
+- TensorFlow
+- OpenCV
+- Mask R-CNN
+- YOLO
+- detectron2
+
+#### 42. 使用許諾付地図サービスエンハンス
+#### 2022/11 - 2023/01
+
+[ヒノキヤグループ](https://www.hinokiya-group.jp/)の社内システムとの連携を担当しました。
+
+##### 担当業務
+
+- 設計
+- 実装・テスト・リリース
+
+##### 言語・環境
+
+- php
+- mysql
+- GMO クラウド
+
+#### 41. 図面描画アプリケーション連携
+#### 2022/07 - 2022/11
+
+インストール型の図面描画アプリケーション（[間取りクラウド](https://madori.jp/#madori-cloud)）とWEBサービス（[いえらぶクラウド](https://cloud.ielove.jp/)）の連携を担当しました。
 
 ##### 担当業務
 
